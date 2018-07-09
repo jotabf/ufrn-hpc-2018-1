@@ -1,0 +1,3 @@
+slurmstepd: error: *** STEP 318064.3 ON service2 CANCELLED AT 2018-07-06T18:13:22 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 318064 ON service2 CANCELLED AT 2018-07-06T18:13:22 ***

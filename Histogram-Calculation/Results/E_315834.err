@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "median.py", line 11, in <module>
+    print(statistics.median(array))
+  File "/opt/npad/shared/softwares/python/3.6.3-gnu-4.8_sh_lib/lib/python3.6/statistics.py", line 385, in median
+    return (data[i - 1] + data[i])/2
+TypeError: unsupported operand type(s) for /: 'str' and 'int'

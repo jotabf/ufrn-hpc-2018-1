@@ -1,0 +1,2 @@
+mpirun: Forwarding signal 18 to job
+slurmstepd: error: *** JOB 318067 ON service2 CANCELLED AT 2018-07-06T18:14:04 ***
